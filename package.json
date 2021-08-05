@@ -1,0 +1,20 @@
+{
+  "name": "google-clone",
+  "version": "1.0.0",
+  "description": "This website is a clone of the google search page. It has been created for learning HTML, CSS/SCSS code programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkey1980/google-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkey1980/google-clone/issues"
+  },
+  "homepage": "https://github.com/wkey1980/google-clone#readme"
+}
